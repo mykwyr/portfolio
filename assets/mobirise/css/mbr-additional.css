@@ -20,6 +20,12 @@
   color: #000000;
   font-size: 24px;
 }
+#msg-box1-42 .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-42 .mbr-article {
+  color: #fff;
+}
 #msg-box1-19 .mbr-header .mbr-header__text {
   color: #000000;
   font-size: 14px;
